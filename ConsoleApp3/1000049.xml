@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<ZVIT>
+  <TRANSPORT>
+    <CREATEDATE>31.03.2017</CREATEDATE>
+    <VERSION>4.1</VERSION>
+  </TRANSPORT>
+  <ORG>
+    <FIELDS>
+      <EDRPOU>26392828</EDRPOU>
+    </FIELDS>
+    <CARD>
+      <FIELDS>
+        <PERTYPE>0</PERTYPE>
+        <PERDATE>01.03.2017</PERDATE>
+        <CHARCODE>J1201008</CHARCODE>
+        <DOCID>36D2673B-B911-464C-B86D-38410D536B6F</DOCID>
+      </FIELDS>
+      <DOCUMENT>
+        <ROW TAB="0" LINE="0" NAME="N13">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="N14">
+          <VALUE>11</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="FIRM_ADR">
+          <VALUE>вул. Пушкінська, буд 32/8, м. Житомир, 10008</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="FIRM_NAME">
+          <VALUE>ПАТ "ЕК "Житомиробленерго", Житомирський РЕМ ПАТ "ЕК "Житомиробленерго"</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="FIRM_PHON">
+          <VALUE>0412402958</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="N2_1">
+          <VALUE>1000049/7</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="N2_13">
+          <VALUE>7</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="N25">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="N3">
+          <VALUE>Неплатник</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="N4">
+          <VALUE>100000000000</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="N8">
+          <VALUE>Договір про постачання</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="N10">
+          <VALUE>А. В. Івчук</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="A5_7">
+          <VALUE>16101067.49</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="A6_7">
+          <VALUE>3220213.50</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="A6_11">
+          <VALUE>3220213.50</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="A7_7">
+          <VALUE>19321280.99</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="A7_8">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="A7_9">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="A7_10">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="A7_11">
+          <VALUE>19321280.99</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="N9">
+          <VALUE>Готівка</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="FIRM_INN">
+          <VALUE>220486206250</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="N11">
+          <VALUE>31.03.2017</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="N2_11">
+          <VALUE>1000049</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="INN">
+          <VALUE>2778207983</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="FIRM_EDRPOU">
+          <VALUE>26392828</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="N81">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="N82">
+          <VALUE>01.01.2017</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="PHON">
+          <VALUE>0412402958</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="A5_71">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW TAB="0" LINE="0" NAME="A7_71">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW TAB="1" LINE="0" NAME="TAB1_A1">
+          <VALUE>I</VALUE>
+        </ROW>
+        <ROW TAB="1" LINE="0" NAME="TAB1_A8">
+          <VALUE>20</VALUE>
+        </ROW>
+        <ROW TAB="1" LINE="0" NAME="TAB1_A10">
+          <VALUE>16101067.49</VALUE>
+        </ROW>
+        <ROW TAB="1" LINE="0" NAME="TAB1_A12">
+          <VALUE>31.03.2017</VALUE>
+        </ROW>
+        <ROW TAB="1" LINE="0" NAME="TAB1_A13">
+          <VALUE>електрична енергія</VALUE>
+        </ROW>
+        <ROW TAB="1" LINE="0" NAME="TAB1_A131">
+          <VALUE>2716000000</VALUE>
+        </ROW>
+        <ROW TAB="1" LINE="0" NAME="TAB1_A14">
+          <VALUE>кВт·год</VALUE>
+        </ROW>
+        <ROW TAB="1" LINE="0" NAME="TAB1_A141">
+          <VALUE>0415</VALUE>
+        </ROW>
+        <ROW TAB="1" LINE="0" NAME="TAB1_A15">
+          <VALUE>15510215</VALUE>
+        </ROW>
+        <ROW TAB="1" LINE="0" NAME="TAB1_A16">
+          <VALUE>1.03809441</VALUE>
+        </ROW>
+        <ROW TAB="1" LINE="0" NAME="TAB1_A17">
+          <VALUE>16101067.49</VALUE>
+        </ROW>
+      </DOCUMENT>
+    </CARD>
+  </ORG>
+</ZVIT>
